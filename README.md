@@ -62,14 +62,6 @@ A responsive e-commerce frontend featuring product layouts and category navigati
 
 [Visit Website](https://shilpalay.com)
 
-### 🛍️ Looklify — Cosmetics E-commerce Platform
-
-An e-commerce platform featuring product browsing, search and filtering, shopping cart, database integration, and payment functionality.
-
-**Technologies:** Next.js · TypeScript · MongoDB · Tailwind CSS
-
-[Visit Website](https://looklifybd.com)
-
 ## 📊 GitHub Statistics
 
 <p align="center">
