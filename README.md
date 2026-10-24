@@ -28,7 +28,7 @@ I'm a Computer Science and Engineering student at the University of Liberal Arts
 
 ### Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend and database technologies" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,fitebox" alt="Backend and database technologies" />
 </p>
 
 ### Tools & Platforms
@@ -52,7 +52,7 @@ A task marketplace featuring authentication, task posting, bidding, messaging, a
 
 **Technologies:** Next.js · TypeScript · Node.js · Express.js · MongoDB
 
-[Explore My GitHub](https://github.com/shalfaz)
+[Explore My GitHub](https://github.com/shalfaz/taskant)
 
 ### 🧵 Shilpalay — Fashion & Heritage E-commerce
 
